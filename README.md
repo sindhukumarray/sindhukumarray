@@ -34,15 +34,14 @@
 ---
 
 ---
+---
 
 ## 📊 GitHub Stats
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sindhukumarray&show_icons=true&theme=tokyonight&cache_seconds=60
-)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sindhukumarray&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhukumarray&layout=compact&theme=tokyonight)
+
 
 
 
