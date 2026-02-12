@@ -40,7 +40,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sindhukumarray&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhukumarray&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sindhukumarray&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60)
+
 
 
 
