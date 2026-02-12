@@ -22,10 +22,18 @@
 ---
 
 ## 📂 Featured Projects
-- 🔹 **Interactive Quiz App** – Dynamic quiz application using Vanilla JavaScript
-- 🔹 **Todo List App** – Task manager with local storage support
-- 🔹 **Student Portfolio** – Responsive personal portfolio website
-- 🔹 **Personal Web Card** – Clean profile card UI design
+
+- 🔹 **InteractiveQuizApp-v1** – Dynamic quiz application built using Vanilla JavaScript with score tracking and responsive UI.
+
+- 🔹 **TodoListApp** – Task management application with local storage support and clean UI design.
+
+- 🔹 **StudentPortfolio** – Fully responsive personal portfolio website showcasing profile and projects.
+
+- 🔹 **PersonalWebCard** – Modern profile card UI design using HTML & CSS.
+
+- 🔹 **Explore World Project** – Creative UI project built using HTML & CSS with responsive layout.
+
+- 🔹 **Android App (Kotlin)** – Native Android application developed using Kotlin and XML layouts.
 
 ---
 
