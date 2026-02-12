@@ -36,9 +36,23 @@
 
 ---
 
+---
+
 ## 📫 Connect With Me
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email here)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sindhu-kumar-ray-456b8a392" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:sindhukumarray007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sindhu-kumar-ray-456b8a392  
+- 📧 Email: sindhukumarray007@gmail.com
+
 
 ---
 
