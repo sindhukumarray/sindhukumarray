@@ -6,6 +6,7 @@
 ## 💫 About Me
 - 💻 Passionate about building interactive web applications
 - 🌱 Currently learning Advanced JavaScript & DSA
+- 📱 Building Android Apps using Kotlin
 - 🎯 Focused on Clean UI & Responsive Design
 - 📍 Pune, Maharashtra, India
 - ⚡ Always ready to learn new technologies
@@ -14,8 +15,9 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,kotlin,androidstudio" />
 </p>
+
 
 ---
 
