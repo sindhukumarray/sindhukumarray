@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sindhu Kumar Ray</h1>
+<h3 align="center">🚀 Frontend Developer | JavaScript Enthusiast</h3>
 
-<!--
-**sindhukumarray/sindhukumarray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💫 About Me
+- 💻 Passionate about building interactive web applications
+- 🌱 Currently learning Advanced JavaScript & DSA
+- 🎯 Focused on Clean UI & Responsive Design
+- 📍 Pune, Maharashtra, India
+- ⚡ Always ready to learn new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Featured Projects
+- 🔹 **Interactive Quiz App** – Dynamic quiz application using Vanilla JavaScript
+- 🔹 **Todo List App** – Task manager with local storage support
+- 🔹 **Student Portfolio** – Responsive personal portfolio website
+- 🔹 **Personal Web Card** – Clean profile card UI design
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sindhukumaray&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: (Add your LinkedIn link here)
+- 📧 Email: (Add your email here)
+
+---
+
+⭐ From [Sindhu Kumar Ray](https://github.com/sindhukumaray)
