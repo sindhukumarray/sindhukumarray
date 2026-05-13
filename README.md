@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/sindhukumarray/sindhukumarray/main/banner.jpg"/>
+<img width="100%" src="https://raw.githubusercontent.com/sindhukumarray/sindhukumarray/main/banner.png"/>
 
 <br>
 <br>
@@ -101,6 +101,16 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=sindhukumarray&theme=radical&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sindhukumarray&bg_color=0d1117&color=ff00ff&line=00e5ff&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
