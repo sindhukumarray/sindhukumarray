@@ -1,12 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Sindhu%20Kumar%20Ray&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Frontend%20Developer%20|%20JavaScript%20Enthusiast&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://raw.githubusercontent.com/sindhukumarray/sindhukumarray/main/banner.jpg"/>
 
-# Hi 👋, I'm Sindhu Kumar Ray
+<br>
+<br>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Sindhu Kumar Ray
 
 ### 🚀 Frontend Developer | JavaScript Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;JavaScript+Enthusiast;MERN+Stack+Learner;Building+Interactive+Web+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;JavaScript+Enthusiast;MERN+Stack+Learner;Building+Interactive+Web+Applications;Code+•+Learn+•+Build+•+Repeat" />
 
 </div>
 
@@ -14,11 +17,16 @@
 
 # 🌌 About Me
 
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 💻 Passionate about building modern web applications  
 - 🌱 Currently learning **Advanced JavaScript & MERN Stack**  
 - 🎯 Focused on **Clean UI & Responsive Design**  
 - 📍 Based in **Bhopal, India**  
-- ⚡ Love exploring new technologies  
+- ⚡ Love exploring futuristic technologies  
+- 🔥 Love creating aesthetic developer experiences  
+
+<br>
 
 ---
 
@@ -32,13 +40,13 @@
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sindhukumarray&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=a855f7&border_color=302b63"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sindhukumarray&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=ff00ff&text_color=ffffff&icon_color=00e5ff&border_color=ff00ff"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sindhukumarray&theme=tokyonight&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&border=302b63"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sindhukumarray&theme=tokyonight&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00E5FF&border=FF00FF"/>
 
 </div>
 
@@ -48,7 +56,7 @@
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhukumarray&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_color=302b63"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhukumarray&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=ff00ff&text_color=ffffff&border_color=ff00ff"/>
 
 </div>
 
@@ -58,12 +66,20 @@
 
 <div align="center">
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/sindhukumarray">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://twitter.com/YOUR_TWITTER_USERNAME">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 </div>
@@ -80,10 +96,24 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
 <div align="center">
 
-### ✨ “Code. Learn. Build. Repeat.” ✨
+<img src="https://github-profile-trophy.vercel.app/?username=sindhukumarray&theme=radical&no-frame=true&row=1&column=6"/>
 
-<img src="https://komarev.com/ghpvc/?username=sindhukumarray&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</div>
+
+---
+
+<div align="center">
+
+## ✨ Code • Learn • Build • Repeat ✨
+
+<img src="https://komarev.com/ghpvc/?username=sindhukumarray&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:7b2ff7,100:00e5ff&height=120&section=footer"/>
 
 </div>
