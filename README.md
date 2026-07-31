@@ -13,8 +13,11 @@ Building Secure • Scalable • Production-Ready Web Applications
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Development+Enthusiast;REST+API+Developer;MongoDB+%7C+PostgreSQL;Always+Learning+Something+New+🚀"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=true&width=900&lines=MERN+Stack+Developer;Backend+Developer;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL;Generative+AI+Intern+at+JASIQ+Labs;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</p>
 
 </p>
 
