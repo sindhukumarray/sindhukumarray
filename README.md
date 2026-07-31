@@ -213,22 +213,6 @@ Authentication module for MERN applications.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sindhukumarray&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sindhukumarray&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -244,16 +228,6 @@ Authentication module for MERN applications.
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sindhukumarray&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sindhukumarray&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
 
 </p>
 
