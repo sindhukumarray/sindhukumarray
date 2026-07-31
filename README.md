@@ -177,3 +177,41 @@ Currently working as a **MERN & Generative AI Intern at JASIQ Labs Pvt. Ltd.** w
 </a>
 
 </p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sindhu-kumar-ray-456b8a392">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sindhukumarray">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sindhukumarray007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 Quote I Believe In
+
+> **"Consistency beats talent when talent doesn't stay consistent."** 🚀
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+If you like my work, consider following me and checking out my repositories.
+
+Happy Coding! 💙
+
+</div>
