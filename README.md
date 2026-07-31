@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sindhukumarray/sindhukumarray/main/banner.png.png" alt="GitHub Banner" width="100%" />
+</p>
+
+<br>
+
+
 <div align="center">
 
 # 👋 Hi, I'm Sindhu Kumar Ray
