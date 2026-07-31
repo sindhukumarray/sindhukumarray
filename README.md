@@ -29,3 +29,78 @@ I'm passionate about building secure, scalable and modern full-stack web applica
 Currently working as a **MERN & Generative AI Intern at JASIQ Labs Pvt. Ltd.** where I continue learning and building real-world software solutions.
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+# 🚀 About Me
+
+💼 **MERN & Generative AI Intern** @ **JASIQ Labs Pvt. Ltd.**
+
+🎓 Successfully completed my **MERN Stack Development Journey**, building secure, scalable, and production-ready full-stack web applications.
+
+💻 Passionate about backend engineering, full-stack development, and solving real-world problems through clean, maintainable code.
+
+🌱 Currently exploring **Generative AI**, modern backend architecture, and advanced full-stack development.
+
+⚡ I enjoy learning new technologies, building impactful projects, and continuously improving my development skills.
+
+---
+
+# 💻 Tech Stack
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql" />
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
+</p>
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,javascript" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Generative AI
+- ⚡ Advanced Backend Development
+- 🏗 Scalable System Design
+- ☁ Cloud & Deployment
+- 🚀 Performance Optimization
+
+---
+
+# 🎯 Current Focus
+
+✔ Building Real-World MERN Applications
+
+✔ Writing Clean & Maintainable Code
+
+✔ Backend API Development
+
+✔ Secure Authentication & Authorization
+
+✔ Production-Ready Web Applications
+
+✔ Continuous Learning & Problem Solving
