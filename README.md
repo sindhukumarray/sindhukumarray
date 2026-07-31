@@ -1,66 +1,62 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sindhukumarray/sindhukumarray/main/banner.png" alt="GitHub Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sindhukumarray/sindhukumarray/main/banner.png" width="100%" alt="Banner"/>
 </p>
 
-<br>
+<h1 align="center">Hi 👋, I'm Sindhu Kumar Ray</h1>
 
+<h3 align="center">
+MERN Stack Developer • MERN & Generative AI Intern @ JASIQ Labs Pvt. Ltd.
+</h3>
 
-<div align="center">
+<p align="center">
+Building Secure • Scalable • Production-Ready Web Applications
+</p>
 
-# 👋 Hi, I'm Sindhu Kumar Ray
+<p align="center">
 
-### 🚀 MERN Stack Developer | MERN & Generative AI Intern @ JASIQ Labs Pvt. Ltd.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Backend+Development+Enthusiast;REST+API+Developer;MongoDB+%7C+PostgreSQL;Always+Learning+Something+New+🚀"/>
 
-### Building Secure • Scalable • Production-Ready Full Stack Web Applications
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;MERN+%26+Generative+AI+Intern+%40+JASIQ+Labs;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL;Building+Production+Ready+Applications;Always+Learning+New+Technologies+🚀" />
+<p align="center">
 
-<br>
+<a href="https://github.com/sindhukumarray">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=sindhukumarray&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+<a href="https://www.linkedin.com/in/sindhu-kumar-ray-456b8a392">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/sindhukumarray?style=for-the-badge&color=blue&label=Followers"/>
+<a href="mailto:sindhukumarray007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/sindhukumarray?style=for-the-badge&color=yellow&label=Total%20Stars"/>
-
-</div>
-
----
-
-# 🚀 About Me
-
-💼 MERN & Generative AI Intern at **JASIQ Labs Pvt. Ltd.**
-
-🎓 I have successfully completed a complete **MERN Stack Development Journey**, where I built secure, scalable and production-ready full stack applications from frontend to backend.
-
-💻 I enjoy designing REST APIs, developing backend services, integrating databases, implementing authentication systems, and building responsive React applications.
-
-🌱 Currently expanding my knowledge in **Generative AI, Advanced Backend Development, Cloud Deployment and System Design**.
+</p>
 
 ---
 
-# 💻 Complete Tech Stack
+# 💫 About Me
 
-## 🌐 Frontend
+- 💼 MERN & Generative AI Intern at **JASIQ Labs Pvt. Ltd.**
+- 🚀 Passionate about Backend Development & Full Stack Engineering.
+- ⚙️ I enjoy building secure REST APIs, authentication systems, and scalable web applications.
+- 🌱 Currently learning **Generative AI, System Design, Cloud Deployment, and Scalable Backend Architecture.**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, PostgreSQL, Sequelize & REST APIs.**
+
+---
+
+# 🚀 Tech Stack
+
+## 🎨 Frontend
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 
 </p>
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- React Router
-- Context API
-- Axios
-- Responsive UI Design
-
----
-
-## ⚙ Backend Development
+## ⚙️ Backend
 
 <p>
 
@@ -68,22 +64,7 @@
 
 </p>
 
-- Node.js
-- Express.js
-- REST API Development
-- CRUD Operations
-- Middleware
-- Authentication & Authorization
-- JWT Authentication
-- bcrypt Password Hashing
-- Protected Routes
-- CORS
-- dotenv
-- Environment Variables
-
----
-
-## 🗄 Databases
+## 🗄️ Database
 
 <p>
 
@@ -95,60 +76,27 @@
 
 </p>
 
-### MongoDB Ecosystem
-
-- MongoDB
-- MongoDB Atlas
-- Mongoose ODM
-- Schema Design
-- CRUD Operations
-
-### PostgreSQL Ecosystem
-
-- PostgreSQL
-- Sequelize ORM
-- Database Relationships
-- CRUD Operations
-- Filtering & Pagination
-
----
-
-## ☁ Deployment & Production
+## 🔐 Authentication
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/bcrypt-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge"/>
 
 </p>
-
-- Render Deployment
-- Environment Variables
-- Production Configuration
-- Logging
-- Error Handling
-- Security Best Practices
-- Performance Optimization
-
----
 
 ## 🛠 Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
 
 </p>
 
-- VS Code
-- Git
-- GitHub
-- Thunder Client
-- Postman
-- npm
-
----
-
-## 👨‍💻 Programming Languages
+## 💻 Languages
 
 <p>
 
@@ -156,286 +104,220 @@
 
 </p>
 
-- JavaScript
-- Java
-- Python
-- Kotlin
-
 ---
 
-## 🤖 AI & Emerging Technologies
+# 🎯 What I Do
 
-- Generative AI
-- Prompt Engineering
-- AI Assisted Development
-- LLM Fundamentals
+✔ Build Full Stack MERN Applications
 
----
+✔ Design REST APIs
 
-# 📚 What I've Learned
+✔ Develop Secure Authentication Systems
 
-✔ HTML5 & CSS3
+✔ Work with SQL & NoSQL Databases
 
-✔ Modern JavaScript (ES6+)
+✔ Deploy Production Ready Applications
 
-✔ React.js
-
-✔ React Router
-
-✔ Context API
-
-✔ Axios
-
-✔ Responsive Web Design
-
-✔ Node.js Core Modules
-
-✔ Express.js
-
-✔ REST APIs
-
-✔ CRUD Operations
-
-✔ Middleware
-
-✔ JWT Authentication
-
-✔ bcrypt
-
-✔ Protected Routes
-
-✔ Authentication & Authorization
-
-✔ MongoDB
-
-✔ MongoDB Atlas
-
-✔ Mongoose ODM
-
-✔ PostgreSQL
-
-✔ Sequelize ORM
-
-✔ Filtering & Pagination
-
-✔ Git & GitHub
-
-✔ Thunder Client
-
-✔ Postman
-
-✔ Render Deployment
-
-✔ Environment Variables
-
-✔ Logging
-
-✔ Error Handling
-
-✔ Security Best Practices
-
-✔ Performance Optimization
+✔ Learn Modern Backend Technologies
 
 ---
 
 # 🚀 Featured Projects
 
-### 🍽 MessMate Full Stack Application
+<table>
+<tr>
 
-- React Frontend
-- Express Backend
-- JWT Authentication
-- PostgreSQL + Sequelize
-- Responsive UI
-- Protected Routes
+<td width="50%" valign="top">
 
----
+## 🍽 MessMate Backend
 
-### 🌐 Static Site Server
+A secure backend built with **Node.js, Express.js & PostgreSQL**.
 
-- Node.js Core Modules
+### ✨ Features
+
+- 🔐 JWT Authentication
+- 🔒 Password Hashing (bcrypt)
+- 📦 REST APIs
+- 📄 CRUD Operations
+- 🔍 Filtering & Pagination
+- 🛡 Protected Routes
+
+**Tech Stack**
+
+`Node.js` `Express.js` `PostgreSQL` `Sequelize` `JWT`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 MessMate Frontend
+
+Modern React application connected with secure backend APIs.
+
+### ✨ Features
+
+- 🎨 Responsive UI
+- 🔑 Login & Signup
+- 🔐 Protected Routes
+- 🌐 Axios API Integration
+- ⚡ Fast Navigation
+
+**Tech Stack**
+
+`React` `React Router` `Context API` `Axios`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Static Site Server
+
+Node.js project built without Express to understand backend fundamentals.
+
+### Highlights
+
 - HTTP Module
 - File System
+- Path Module
 - Static File Serving
+- Routing
 
----
+</td>
 
-### 🔐 Authentication System
+<td width="50%" valign="top">
 
-- Login & Signup
-- JWT
-- bcrypt
+## 🔐 Authentication System
+
+Authentication module for MERN applications.
+
+### Features
+
+- JWT Login
+- Signup
+- Password Encryption
 - Protected Routes
-- Context API
-- Axios Integration
+- Secure Authorization
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🌱 Currently Learning
+# 📊 GitHub Statistics
 
-- Generative AI
-- Advanced Backend Development
-- Clean Architecture
-- System Design
-- Cloud Deployment
-- Performance Optimization
-- Scalable API Development
+<p align="center">
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sindhukumarray&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-# 🎯 Current Focus
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhukumarray&layout=compact&theme=tokyonight&hide_border=true"/>
 
-✔ Building Production Ready MERN Applications
-
-✔ Backend Engineering
-
-✔ Secure Authentication Systems
-
-✔ REST API Development
-
-✔ Database Design
-
-✔ AI Powered Applications
-
-✔ Writing Clean & Maintainable Code
-
-✔ Continuous Learning
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sindhukumarray&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindhukumarray&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=sindhukumarray&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sindhukumarray&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sindhukumarray&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sindhukumarray&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
 
-</div>
-
----
-
-# 📂 Featured Repositories
-
-| 🚀 Repository | 💡 Description |
-|---------------|----------------|
-| 🍽 **MessMate Backend** | Express.js + PostgreSQL + Sequelize + JWT Authentication + REST APIs |
-| 💻 **MessMate Frontend** | React.js + React Router + Context API + Axios + Protected Routes |
-| 🌐 **Static Site Server** | Node.js Core Modules, HTTP, File System & Static File Serving |
-| 🎨 **Portfolio Website** | Personal Developer Portfolio showcasing projects & skills |
-
-> 📌 **Tip:** Pin these repositories on your GitHub profile so recruiters can access them directly.
+</p>
 
 ---
 
-# 📜 Certifications & Learning Journey
+# 📚 Currently Learning
 
-### ✅ Completed
-
-- MERN Stack Development
-- Node.js & Express.js Backend Development
-- MongoDB & Mongoose
-- PostgreSQL & Sequelize
-- Authentication & Authorization
-- REST API Development
-- Deployment & Production Best Practices
-
-### 📖 Currently Exploring
-
-- Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Advanced Backend Architecture
-- System Design
-- Cloud Technologies
+- 🤖 Generative AI
+- ☁ Cloud Deployment
+- 🏗 System Design
+- ⚡ Backend Performance Optimization
+- 🧩 Clean Architecture
 
 ---
 
-# 🎯 2026 Goals
+# 🌟 Beyond Coding
 
-- 🚀 Build scalable Full Stack Applications
-- 🤖 Integrate AI into web applications
-- 🌍 Contribute to Open Source Projects
-- 📚 Learn System Design & Microservices
-- ☁ Explore AWS & Docker
-- 💼 Grow as a Backend Engineer
+- 💡 Passionate about solving real-world problems through technology.
+- 📖 Continuously learning modern backend technologies and AI.
+- 🤝 Open to collaborating on impactful open-source and full-stack projects.
+- 🚀 Always exploring better ways to write clean, scalable, and maintainable code.
 
 ---
 
-# 🤝 Connect With Me
+# 📬 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/sindhu-kumar-ray-456b8a392">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sindhukumarray">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:sindhukumarray007@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://github.com/sindhukumarray">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 💼 Open To
+# 💼 Current Focus
 
-- 💻 Full Stack Development
-- ⚙ Backend Development
-- 🌐 MERN Stack Projects
-- 🤖 Generative AI Projects
-- 🚀 Open Source Collaboration
-- 🎓 Internship Opportunities
+- 🚀 Building Full Stack MERN Applications
+- ⚙️ Developing Secure Backend APIs
+- 🗄️ Designing Efficient Database Systems
+- 🤖 Exploring Generative AI Integration
+- 📚 Improving System Design Knowledge
+
+---
+
+# 💭 Quote I Believe In
+
+<div align="center">
+
+> **"Consistency beats talent when talent doesn't stay consistent."** 🚀
+
+</div>
 
 ---
 
 <div align="center">
 
-## 💡 Favorite Quote
+## ⭐ Thanks for Visiting!
 
-> **"Success doesn't come from what you do occasionally, it comes from what you do consistently."** 🚀
+If you found my projects interesting, consider ⭐ starring a repository or connecting with me.
 
----
-
-### ⭐ Thanks for visiting my profile!
-
-**If you like my work, consider following me and exploring my repositories.**
-
-### Happy Coding! ❤️
+### Let's Build Something Amazing Together 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
